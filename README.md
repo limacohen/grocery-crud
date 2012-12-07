@@ -7,6 +7,10 @@ Installation
 ============
 After you install the Spark, you need to move/copy the ``assets`` folder to a publicly accessible place. In most CI installs this can be ``public/assets``. Make sure to add the proper exception in the ``.htaccess`` file, if you're using one.
 
+Like it?
+========
+"!http://api.coderwall.com/limacohen/endorsecount.png!":http://coderwall.com/limacohen
+
 Problems? Comments?
 ===================
 Feel free to tweet me at [@lima](http://twitter.com/lima)
