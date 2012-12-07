@@ -9,7 +9,7 @@ After you install the Spark, you need to move/copy the ``assets`` folder to a pu
 
 Like it?
 ========
-"!http://api.coderwall.com/limacohen/endorsecount.png!":http://coderwall.com/limacohen
+[![Endorse on Coderwall](http://api.coderwall.com/lima/endorsecount.png)](http://coderwall.com/lima)
 
 Problems? Comments?
 ===================
