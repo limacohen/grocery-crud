@@ -1,4 +1,4 @@
 name: grocery-crud
-version: 1.3.2
-compatibility: 2.0.2
+version: 1.4.1
+compatibility: 2.1.4
 tags: ["crud", "admin", "backend"]
